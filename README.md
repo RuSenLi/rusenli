@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm RuSen Li 😄
 
 - 🌱 Learning: Front-End Development
-- <img width="18px" src="https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg" /> Juejin : [破灯泡](https://juejin.cn/user/90574499622743)
 - 📫 Email：rusenli@outlook.com
 
 ## 💻 My Tech Stack:
